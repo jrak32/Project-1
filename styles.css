@@ -92,7 +92,7 @@ header .profile-image:hover {
 }
 .location {
   background-color: #ff8c00;
-  color: ;
+  color: black;
 }
 .card {
   margin: 30px;
@@ -158,14 +158,14 @@ a.social {
   transition: all 1s;
 }
 a.twitter {
-  color: ;
+  color: black;
 }
 
 a.github {
-  color: ;
+  color: black;
 }
-a.social:hover {
-  color: #4b0082;
+a:hover {
+  color: #00008B;
 }
 .clearfix {
   clear: both;
